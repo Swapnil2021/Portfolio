@@ -49,21 +49,6 @@ portfolio/
 │-- README.md
 ```
 
-## Deployment
-You can deploy your portfolio using:
-- **Vercel**
-  ```bash
-  vercel
-  ```
-- **Netlify**
-  ```bash
-  netlify deploy
-  ```
-- **GitHub Pages**
-  ```bash
-  npm run build
-  npm run deploy
-  ```
 
 ## License
 This project is open-source under the MIT License.
